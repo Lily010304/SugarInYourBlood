@@ -1,4 +1,4 @@
-# What do your blood sugars tell you?
+# What does your blood sugar tell you?
 
 ## 📖 Background
 
